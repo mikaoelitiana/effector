@@ -114,7 +114,7 @@
     "rollup-plugin-visualizer": "^2.4.3",
     "rxjs": "^6.5.1",
     "sharp": "^0.22.1",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "symbol-observable": "^1.2.0",
     "terser": "^3.17.0",
     "typescript": "^3.4.5",
