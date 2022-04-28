@@ -59,7 +59,7 @@
     "chroma-js": "^2.0.3",
     "core-js": "^3.0.1",
     "cross-env": "^5.2.0",
-    "cross-fetch": "^3.0.2",
+    "cross-fetch": "^3.1.5",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.12.1",
     "eslint": "^5.16.0",
