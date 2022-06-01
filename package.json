@@ -113,7 +113,7 @@
     "rollup-plugin-terser": "^5.0.0",
     "rollup-plugin-visualizer": "^2.4.3",
     "rxjs": "^6.5.1",
-    "sharp": "^0.22.1",
+    "sharp": "^0.30.5",
     "shelljs": "^0.8.3",
     "symbol-observable": "^1.2.0",
     "terser": "^3.17.0",
