@@ -79,7 +79,7 @@
     "jest-enzyme": "^7.0.2",
     "jest-runner-eslint": "^0.7.3",
     "js-yaml": "^3.13.1",
-    "jsdom": "^15.0.0",
+    "jsdom": "^16.5.0",
     "jsdom-global": "^3.0.2",
     "markdown-table": "^1.1.2",
     "most": "^1.7.3",
