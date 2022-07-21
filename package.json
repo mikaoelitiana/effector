@@ -116,7 +116,7 @@
     "sharp": "^0.22.1",
     "shelljs": "^0.8.3",
     "symbol-observable": "^1.2.0",
-    "terser": "^3.17.0",
+    "terser": "^4.8.1",
     "typescript": "^3.4.5",
     "viz.js": "^2.1.2",
     "vue": "^2.6.10",
